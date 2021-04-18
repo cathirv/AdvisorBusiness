@@ -12,6 +12,9 @@
         android:theme="@style/AppTheme.Material"
         android:usesCleartextTraffic="true">
         <activity
+            android:name=".ui.login.LoginActivity"
+            android:label="@string/title_activity_login"/>
+        <activity
             android:name=".SplashActivity"
             android:theme="@style/AppTheme.Material.FullScreen">
             <intent-filter>
