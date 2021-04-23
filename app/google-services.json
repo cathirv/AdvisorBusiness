@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "669475417281",
+    "project_id": "advisor-business",
+    "storage_bucket": "advisor-business.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669475417281:android:bf81af93235b97da7df840",
+        "android_client_info": {
+          "package_name": "es.cr.advisorbusiness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669475417281-cvb1fkv8i4no45f7h9hpl5pjlrig1efq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdsgdWTcBEzYOB92pXatMG5g1qMSwKxzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669475417281-cvb1fkv8i4no45f7h9hpl5pjlrig1efq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

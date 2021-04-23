@@ -3,6 +3,7 @@
     package="es.cr.advisorbusiness">
 
     <application
+        android:name=".commons.ADVBApplication"
         android:allowBackup="false"
         android:hardwareAccelerated="false"
         android:icon="@mipmap/ic_launcher"
